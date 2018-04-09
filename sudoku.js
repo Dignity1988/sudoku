@@ -7,7 +7,7 @@ function matrix(r,c){a=[]; for(var i=1;r;i++){for (var j=0;c;j++){m=[i,j];} }  r
 //construction of matrix output from 4 elements
 //construction
 
-*/ 
+*/
 
 
 var arr = [1, 2, 3, 4, 5];
