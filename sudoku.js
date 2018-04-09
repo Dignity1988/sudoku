@@ -1,13 +1,56 @@
 
 //we are looking for square matrix of 9 and 3-d order.
 //the first marix looks
-function matrix(r,c){a=[]; for(var i=1;r;i++){for (var j=0;c;j++){m=[i,j];} }  return m};console.log(matrix(9,9))
+//function matrix(r,c){a=[]; for(var i=1;r;i++){for (var j=0;c;j++){m=[i,j];} }  return m};console.log(matrix(9,9))
 
 /*
-//construction of matrix output from 4 elements
-//construction
-
+creating matrix that are
 */
+/*creating random matrix
+*/
+function creatingrandom(){
+for (i=1;i=9;i++){
+let arr[]=[].push([i]);
+}
+/*immidiately outpooting fuction*/
+document.write(arr[]);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
 
 
 var arr = [1, 2, 3, 4, 5];
@@ -77,7 +120,7 @@ console.log(c); // [[1, 2, 3], [4, 5, 6]]
 */
 
 
-//рекурсия
+//рекурсивный факториал
 
 function factorial(n) {
   return n ? n * factorial(n - 1) : 1;
@@ -90,6 +133,28 @@ alert( factorial(5) ); // 120
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 
 //sorting randomzid variation of matrix type
 
