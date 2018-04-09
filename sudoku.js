@@ -1,8 +1,9 @@
 
 */
 function creatingrandom(){
+  let arr=[]
 for (i=1;i=9;i++){
-arr[]=['1'].push(['1']);
+arr=arr.push([i]);
 }
 /*immidiately outpooting fuction*/
 document.write(arr[]);
